@@ -1,0 +1,33 @@
+{
+    "name": "Mayank Gautam",
+    "image": "/avatar.png",
+    "links" : [
+        {
+            "title": "Youtube",
+            "href":" https://www.youtube.com/channel/UC0k76PU7f5vF14WRxChCSDA",
+            "image": "/youtube.png"
+        },
+        {
+            "title": "Vercel",
+            "href": "https://vercel.com",
+            "image": "/vercel.png"
+        },
+        {
+            "title": "Next JS",
+            "href": "https://nextjs.org",
+            "image": "/nextjs.png"
+        }
+    ],
+    "socials": [
+        {
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/mayank-g4/",
+            "image": "/linkedin.png"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/Mayank-04",
+            "image": "/github.png"
+        }
+    ]
+}
